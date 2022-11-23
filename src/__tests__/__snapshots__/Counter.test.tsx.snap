@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`This suit is to test the Body component Snapshot of Body 1`] = `
+<DocumentFragment>
+  <div>
+    <h1
+      data-testid="header"
+    >
+      hello world
+    </h1>
+    <h2
+      data-testid="counter"
+    >
+      0
+    </h2>
+    <button
+      data-testid="button"
+      type="button"
+    >
+      Click
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`This suit is to test the Counter component Snapshot of Body 1`] = `
+<DocumentFragment>
+  <div>
+    <h1
+      data-testid="header"
+    >
+      hello world
+    </h1>
+    <h2
+      data-testid="counter"
+    >
+      0
+    </h2>
+    <button
+      data-testid="button"
+      type="button"
+    >
+      Click
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`This suit is to test the Counter component Snapshot of Counter 1`] = `
+<DocumentFragment>
+  <div>
+    <h1
+      data-testid="header"
+    >
+      hello world
+    </h1>
+    <h2
+      data-testid="counter"
+    >
+      0
+    </h2>
+    <button
+      data-testid="button"
+      type="button"
+    >
+      Click
+    </button>
+  </div>
+</DocumentFragment>
+`;
